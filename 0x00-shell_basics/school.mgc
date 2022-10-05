@@ -1,3 +1,2 @@
-#!/bin/bash
-0	string	SCHOOL	This is school type file
-!:mime  MIMETYPE
+file [0	string	SCHOOL	This is school type file
+!:mime  MIMETYPE]
