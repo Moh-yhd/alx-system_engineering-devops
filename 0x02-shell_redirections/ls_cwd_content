@@ -1,0 +1,21 @@
+total 76
+drwxrwxr-x 2 mohammed mohammed 4096 ኦክተ 10 21:37 .
+drwxrwxr-x 7 mohammed mohammed 4096 ኦክተ 10 19:53 ..
+-rwxr-xr-x 1 mohammed mohammed   36 ኦክተ 10 20:17 0-hello_world
+-rwxr-xr-x 1 mohammed mohammed   28 ኦክተ 10 20:25 1-confused_smiley
+-rwxr-xr-x 1 mohammed mohammed   29 ኦክተ 10 20:24 1-confused_smiley~
+-rwxr-xr-x 1 mohammed mohammed   29 ኦክተ 10 20:32 2-hellofile
+-rwxr-xr-x 1 mohammed mohammed   39 ኦክተ 10 20:42 3-twofiles
+-rw-rw-r-- 1 mohammed mohammed   38 ኦክተ 10 20:37 3-twofiles~
+-rwxr-xr-x 1 mohammed mohammed   29 ኦክተ 10 20:45 4-lastlines
+-rwxr-xr-x 1 mohammed mohammed   39 ኦክተ 10 20:45 4-lastlines~
+-rwxr-xr-x 1 mohammed mohammed   29 ኦክተ 10 20:48 5-firstlines
+-rwxr-xr-x 1 mohammed mohammed   29 ኦክተ 10 20:47 5-firstlines~
+-rwxr-xr-x 1 mohammed mohammed   36 ኦክተ 10 20:57 6-third_line
+-rwxr-xr-x 1 mohammed mohammed   29 ኦክተ 10 20:55 6-third_line~
+-rwxr-xr-x 1 mohammed mohammed   99 ኦክተ 10 21:29 7-file
+-rwxr-xr-x 1 mohammed mohammed   97 ኦክተ 10 21:28 7-file~
+-rwxr-xr-x 1 mohammed mohammed   35 ኦክተ 10 21:32 8-cwd_state
+-rw-rw-r-- 1 mohammed mohammed   12 ኦክተ 10 21:29 \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
+-rw-rw-r-- 1 mohammed mohammed    0 ኦክተ 10 21:37 ls_cwd_content
+-rw-rw-r-- 1 mohammed mohammed   57 ኦክተ 10 19:39 README.md
