@@ -1,2 +1,2 @@
 #1/bin/bash
-echo "Hell, World"/
+echo -e "Hell, World\n"
