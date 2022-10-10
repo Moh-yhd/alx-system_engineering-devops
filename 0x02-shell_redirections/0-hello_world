@@ -1,2 +1,3 @@
 #!/bin/bash
-echo -e "Hell, World\n"
+echo "Hell, World"
+
