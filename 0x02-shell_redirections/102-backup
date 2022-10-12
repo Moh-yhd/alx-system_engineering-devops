@@ -1,2 +1,0 @@
-#!/bin/bash
-cut -d ' ' -f1 | paste -s | tr [:blank:] ' ' | perl -nE 'print for m/(?<!\S)\S/g;print "\n"'
