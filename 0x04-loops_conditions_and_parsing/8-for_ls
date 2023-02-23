@@ -1,0 +1,6 @@
+#!/usr/bin/env bash
+# This script is displaying "Best School" 10 times then adds hi at the end
+for line in *; do
+filename=$(echo "$line" | cut -d "-" -f 2)
+echo "$filename"
+done
