@@ -1,7 +1,6 @@
 #!/usr/bin/env bash
 #This script about a user based on their story
-file="/etc/passwd"
-while read -r line;
+while IFS= read -r line;
 do
 	Username=$(echo "$line" | cut -d ":" -f 1)
 	Password=$(echo "$line" | cut -d ":" -f 2)
@@ -12,4 +11,4 @@ do
 
 	echo "The user $Username is part of the $GroupID gang, lives in $Home and rides $Shell. $UserID's place is protected by the passcode $Password, more info about the user here: $UserID"
 
-done < "$file"
+done < "/etc/passwd"
