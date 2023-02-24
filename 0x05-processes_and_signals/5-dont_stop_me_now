@@ -2,7 +2,7 @@
 # This script ends a process
 pid_num=$(pgrep  "bash ./4-to_infinity_and_beyond" -f)
 echo "$pid_num"
-if [ "$pid_num" ]
+if [ -n "$pid_num" ]
 then
 	kill "$pid_num"
 fi
